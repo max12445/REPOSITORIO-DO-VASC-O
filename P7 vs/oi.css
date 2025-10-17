@@ -57,3 +57,44 @@ height: 100vh;
 .meio_cima{
     justify-content: center;
 }
+
+.just_end{
+   justify-content: end;
+  
+}
+.just_center{
+    justify-content: center;
+}
+.ali_end{
+    align-items: end;
+}
+.ta{
+    justify-content: center;
+    align-items: end;
+}
+.start{
+    justify-content: start;
+}
+.na{
+    justify-content: end;
+}
+.no{
+    align-items: end;
+}
+.je{
+    justify-content: end;
+}
+.jo{
+    align-items: end;
+}
+.si{
+    align-items: center;
+}
+
+.bet{
+    justify-content: space-between;
+
+}
+.po{
+    justify-content: center;
+}
