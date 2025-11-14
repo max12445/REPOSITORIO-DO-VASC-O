@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script> 
+ 
+        let num1 = 0;
+        let num2 = 20;
+        let num3 = 15;
+ 
+    
+    function somar(x, y, v){
+       return (x + y) + v;
+    }
+       console.log("resultado soma ",(somar(num1,num2,num3)))
+
+
+     function diminuir(x, y, v){
+        return (x - y) - v;
+     }
+        console.log("resultado divisão ",(diminuir(num1,num2,num3)))
+ 
+
+      function multiplicar(x, y, v){
+        return (x * y) * v;
+     }
+        console.log("resultado multiplicação ",(multiplicar(num1,num2,num3)))
+
+     
+        function dividir(x, y){
+        return (x/y)
+      }
+ 
+      if((num1 === 0) || (num2 === 0)) {
+        console.log(" não é possível dividir")
+      }
+      else{
+        console.log("resultado divisão ", (dividir(num1,num2)))
+      }
+    </script>
+</body>
+</html>

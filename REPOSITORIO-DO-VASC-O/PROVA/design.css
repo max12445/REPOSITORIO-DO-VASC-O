@@ -1,0 +1,75 @@
+.container {
+    height: 100vh;
+    }
+
+.linha{
+    height: 33.333333333333333333%;
+}
+
+.metade{
+    height: 50%;
+}
+
+ .flex{
+    display:flex;
+ }
+    
+ .quadrado{
+     height: 200px;
+     width: 200px;
+     background-color: blue;
+}
+
+.quadrado-menor{
+    height: 50px;
+    width: 50px;
+    background-color: yellow;
+}
+.alinha-meio{
+    justify-content: center;
+    align-items: center
+}
+.betwen{
+    justify-content: space-between;
+}
+
+.canto{
+    justify-content: end;
+    align-items: end;
+}
+.baixo{
+    align-items: end;
+}
+
+.meio{
+    justify-content: center;
+}
+
+.centro{
+align-items: center;
+}
+.retangulo {
+    height: 100%;
+    width: 50%;
+    background-color: blue;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;    
+}
+
+.retangulo-red{
+    height: 100%;
+    width: 50%;
+    background-color: red;
+}
+.ali{
+    align-items: center;
+}
+
+.arro{
+    justify-content: space-around;
+}
+
+.evi{
+    justify-content: space-evenly;
+}
