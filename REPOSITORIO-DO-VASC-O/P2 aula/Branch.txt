@@ -1,2 +1,0 @@
-criamos o primeiro checkout
-git checkout -b testando branch
