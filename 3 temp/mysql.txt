@@ -1,0 +1,16 @@
+create DATABASE aula_php;
+
+use aula_php;
+
+create table usuario(
+id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+usuario VARCHAR(100),
+email VARCHAR(100),
+senha VARCHAR(150),
+password VARCHAR(100)
+
+);
+drop table usuario;
+select * from usuario
+
+
