@@ -94,7 +94,7 @@ $categorias = array('Romance', 'Didático', 'Fantasia', 'Ficção Científica', 
                 <div class="cadastro-icon">
                     <i class="fas fa-book-medical"></i>
                 </div>
-                <h2 class="card-title">Cadastre um Livro</h2>
+                <h2 class="card-title">Cadastre um Livro/Altere</h2>
                 <p class="card-subtitle">Preencha os campos abaixo</p>
 
                 <!-- AVISO AO CADASTRAR UM LIVRO -->
