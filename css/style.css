@@ -1,0 +1,64 @@
+.container{
+    height: 100vh;
+    width: 100vw;
+    background-color: azure;
+}
+.linha{
+    height: 33%;
+    width: 100vw;
+}
+.flex{
+    display: flex;
+}
+.retanguloAZ{
+    height: 100%;
+    width: 50vw;
+    background-color: blue;
+}
+
+.retanguloAM{
+    height: 100%;
+    width: 50vw;
+    background-color: yellow;
+}
+.betwen{
+    justify-content: space-between;
+}
+.amarelo{
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+}
+
+.azul{
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+}
+.alimeio{
+    align-items: center;
+}
+.justend{
+    justify-content: end;
+}
+.justmeio{
+    justify-content: center;
+}
+.aliend{
+    align-items: end;
+}
+.colun{
+    flex-direction: column;
+}
+
+
+.retanguloN{
+    height: 100%;
+    width: 100%;
+}
+
+.retanguloG{
+    height: 100%;
+    width: 100%;
+    background-color: blue;
+}
