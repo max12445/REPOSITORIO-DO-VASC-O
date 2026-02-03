@@ -1,6 +1,6 @@
 <?php 
 
-include 'cod.php';
+include_once 'cod.php';
 
 $nome = $_POST['nome'];
 $email = $_POST['email'];

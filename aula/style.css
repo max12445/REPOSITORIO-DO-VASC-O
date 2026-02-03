@@ -32,3 +32,7 @@ justify-content: center;
 .centro{
     align-items: center;
 }
+.bat{
+    height: 100%;
+    width: 100%;
+}
