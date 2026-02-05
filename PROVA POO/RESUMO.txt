@@ -1,0 +1,13 @@
+O sistema deverá ser desenvolvido obrigatoriamente seguindo os princípios da Programação Orientada a Objetos, 
+sendo exigido o uso de atributos nas classes, a aplicação correta dos modificadores de acesso (public, protected e private) 
+e a implementação de pelo menos uma classe abstrata. Projetos que não utilizarem esses conceitos não serão aceitos.
+
+. O sistema deverá permitir o cadastro de produtos, contendo nome, preço e quantidade em estoque,
+ bem como o cadastro de clientes, diferenciando ao menos dois tipos, como cliente comum e cliente premium
+-O tipo de cliente deverá influenciar regras de negócio, como a aplicação de descontos. 
+-O cadastro das informações poderá ser realizado por meio de variáveis ou estruturas de dados do tipo
+ vetor (array), não sendo obrigatória a utilização de banco de dados.
+-Também deverá ser possível criar pedidos contendo um ou mais produtos, informando a quantidade de cada item.
+- O sistema deve calcular automaticamente o valor total do pedido, aplicando descontos somente no momento da
+ finalização, de acordo com o tipo de cliente.
+-O controle de status do pedido deve ser implementado, contemplando estados como aberto, pago, enviado e cancelado.
