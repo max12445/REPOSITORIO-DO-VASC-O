@@ -1,0 +1,64 @@
+{
+    "autores": [
+        {
+            "id": 1,
+            "noma": "George Orwell",
+            "anoNascimento": 1903,
+            "pais": "Reino Unido",
+            "livros": [
+                {
+                    "id": 101,
+                    "titulo": "1984",
+                    "anoNascimento": 1949,
+                    "genero": "Distopia"
+                },
+                {
+                    "id": 102,
+                    "titulo": "A Revolução dos Bichos",
+                    "anoNascimento": 1945,
+                    "genero": "Sátira política"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "noma": "J. R. R. Tolkien",
+            "anoNascimento": 1892,
+            "pais": "Reino Unido",
+            "livros": [
+                {
+                    "id": 103,
+                    "titulo": "O Hobbit ",
+                    "anoNascimento": 1937,
+                    "genero": "Fantasia"
+                },
+                {
+                    "id": 104,
+                    "titulo": "O Senhor dos Anéis ",
+                    "anoNascimento": 1954,
+                    "genero": "Fantasia"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "noma": "Yuval Noah Harari",
+            "anoNascimento": 1976,
+            "pais": "Israel",
+            "livros": [
+                {
+                    "id": 105,
+                    "titulo": "Sapiens",
+                    "anoNascimento": 2011,
+                    "genero": "História"
+                },
+                {
+                    "id": 106,
+                    "titulo": "Homo Deus ",
+                    "anoNascimento": 2015,
+                    "genero": "Futurismo"
+                }
+            ]
+        }
+    ]
+}
