@@ -1,0 +1,6 @@
+.aumenta{
+    transition: 0.3s;
+}
+.aumenta:hover{
+    transform: scale(1.2);
+}
